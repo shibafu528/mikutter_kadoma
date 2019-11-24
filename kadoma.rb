@@ -2,7 +2,7 @@ Plugin.create :kadoma do
   on_update do |w, ms|
     ms.each do |m|
       if m.description.include?("門真")
-        compose(w, body: "@toshi_a まちカドまぞくを見ろ")
+        compose(w, body: "@toshi_a@social.mikutter.hachune.net まちカドまぞくを見ろ")
       end
     end
   end
