@@ -8,5 +8,5 @@
 ## インストール方法
 
 ```
-mkdir -p ~/.mikutter/plugin && git clone https://gist.github.com/9628014830a007612cc2e9d1619e1bc6.git ~/.mikutter/plugin/kadoma
+mkdir -p ~/.mikutter/plugin && git clone https://github.com/shibafu528/mikutter_kadoma.git ~/.mikutter/plugin/kadoma
 ```
