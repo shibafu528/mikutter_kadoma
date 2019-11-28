@@ -1,0 +1,9 @@
+---
+slug: :kadoma
+depends:
+  mikutter: 3.9.0
+  plugin: []
+version: '1.0'
+author: shibafu528
+name: kadoma
+description: ''
